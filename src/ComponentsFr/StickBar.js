@@ -1,5 +1,5 @@
 import React from 'react';
-import { AppBar, Toolbar } from '@mui/material';
+import { AppBar, Toolbar, Button } from '@mui/material';
 
 function StickBar() {
   return (
@@ -12,7 +12,13 @@ function StickBar() {
       }}
     >
       <Toolbar>
-    
+        <Button
+          href="https://novalight-fr.com/products/masque-facial-avec-led-novalight"
+          variant="contained"
+          sx={{ margin: 'auto auto', backgroundColor: '#4ade80', width: '220px', fontWeight: 'bold', fontSize: '16px' }}
+        >
+        👉 The best Option
+        </Button>
       </Toolbar>
     </AppBar>
   );
