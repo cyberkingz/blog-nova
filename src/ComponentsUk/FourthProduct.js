@@ -21,7 +21,7 @@ function SecondProduct() {
 
       <p>Current Body has some stellar reviews and was even propelled into stardom on ‘Emily in Paris,’ that show on Netflix.</p>
 
-      <p>Maybe we’d name it our second favorite on the list as it does have a comfortable fit and shows some promising results, but at this price, which was £370, we felt a bit of sticker-shock.</p>
+      <p>Maybe we’d name it our second favorite on the list as it does have a comfortable fit and shows some promising results, but at this price, which was £280, we felt a bit of sticker-shock.</p>
 
       <p>Why pay more when you can get the same results for less than £250.00 ? That’s what we thought!</p><br/>
       
