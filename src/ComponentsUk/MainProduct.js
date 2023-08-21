@@ -11,7 +11,7 @@ function MainProduct() {
 
         <div style={{ marginTop: '80px' }}>
           <p style={{ fontWeight: 'bold' }}>Cost</p>
-          <p>We found some great results with LED masks that cost <strong>less than £254.00</strong>. In fact, our top pick was the lowest-priced option!</p>
+          <p>We found some great results with LED masks that cost <strong>less than £250</strong>. In fact, our top pick was the lowest-priced option!</p>
           <Divider />
         </div>
 
@@ -31,7 +31,7 @@ function MainProduct() {
       <div className='imgTextWrapper' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', alignContent: 'center', gap: '30px', width: '100%', margin: 'auto auto' }}>
         <div className='img-container'>
           <img src={IMG} alt="" width={'50%'} className='productIMG' style={{ borderRadius: '20px', boxShadow: '0 0 10px 1px rgb(221 221 221)' }} />
-        <h2 style={{background: '#818cf8', color: 'white', width: '120px', margin: '15px auto', borderRadius: '25px'}}>£195</h2>
+        <h2 style={{background: '#818cf8', color: 'white', width: '120px', margin: '15px auto', borderRadius: '25px'}}>£179</h2>
         </div>
 
         <div style={{ textAlign: 'left', padding: '20px', paddingBottom: '0px' }}>
@@ -40,7 +40,7 @@ function MainProduct() {
 
             <p>We absolutely loved Regenmask, a product that has garnered a huge following. Right now, it’s 50% off too, making it the most affordable of the LED masks you can use at home. This mask is capable of unclogging pores and clearing up skin while preventing the signs of premature aging from taking over. It also has a part that covers your neck, one of the most forgotten areas for aging skin.</p>
 
-            <p>We used it every day for 20 minutes per day as Novalight suggests to use it between 15 and 30 minutes per day. It was effortless and comfortable, all the while working on ridding us of the signs of sun exposure over the years. And no wonder it works so well… It has LED technology used by NASA to help you address pigmentation, redness, dry skin, and wrinkles. In the end, we couldn’t get over how radiant, flawless, and beautiful it left our skin! The results are truly professional grade. And at 50% off, that means it’s only £195. But hurry, you’ll need to order it today to get it at this amazingly low price.</p>
+            <p>We used it every day for 20 minutes per day as Novalight suggests to use it between 15 and 30 minutes per day. It was effortless and comfortable, all the while working on ridding us of the signs of sun exposure over the years. And no wonder it works so well… It has LED technology used by NASA to help you address pigmentation, redness, dry skin, and wrinkles. In the end, we couldn’t get over how radiant, flawless, and beautiful it left our skin! The results are truly professional grade. And at 50% off, that means it’s only £179. But hurry, you’ll need to order it today to get it at this amazingly low price.</p>
           </div>
 
           <div className="ListSection" style={{marginTop: '30px', display: 'flex', flexDirection: 'column', gap: '10px'}}>
@@ -66,7 +66,7 @@ function MainProduct() {
             </Typography>
             <Typography component="div">
               <Box sx={{ display: 'flex', alignItems: 'center', fontSize: '14px' }}>
-                <Check sx={{ color: 'green', marginRight: '5px' }} /> Currently available at a discounted price of £195.
+                <Check sx={{ color: 'green', marginRight: '5px' }} /> Currently available at a discounted price of £179.
               </Box>
             </Typography>
           </div>
@@ -74,7 +74,7 @@ function MainProduct() {
       </div>
 
       <div style={{ width: '100%' }}>
-        <Button variant="contained" href="https://novalight-uk.com/products/masque-facial-avec-led-novalight" sx={{ fontWeight: 'bold', backgroundColor: '#4ade80', padding: '10px', paddingLeft: '20px', paddingRight: '20px', fontSize: '16px', borderRadius: '10px' }}>👉 Visit Their Site</Button>
+        <Button variant="contained" href="https://novalight-uk.com/products/masque-facial-avec-led-novalight" sx={{ fontWeight: 'bold', backgroundColor: '#4ade80', padding: '10px', paddingLeft: '20px', paddingRight: '20px', fontSize: '16px', borderRadius: '10px' }}>👉 The Best Option</Button>
         <p>*Stock is running low</p>
       </div>
 

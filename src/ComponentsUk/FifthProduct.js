@@ -17,13 +17,13 @@ function SecondProduct() {
     <div style={{ textAlign: 'center', padding: '0px', paddingBottom: '0px', width: '80%' }}>
       <div className='TextSection'>
       <h1 style={{textAlign: 'center', marginBottom: '0', paddingBottom: '0'}}>Dr. Dennis Gross</h1>
-      <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>£577.85</h2>
+      <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>£355</h2>
 
       <p>This LED mask definitely brings the dermatologist’s office home. It looks so futuristic too, something my brother would liken to one of his futuristic shows.</p>
 
-      <p>We definitely liked this FDA-cleared wrinkle-fighting device, but we simply can’t justify the price. It costs £577.85. Not a typo.</p>
+      <p>We definitely liked this FDA-cleared wrinkle-fighting device, but we simply can’t justify the price. It costs £355. Not a typo.</p>
 
-      <p>So, while it is a great LED mask, you can get the same perfecting results for your skin from Novalight for under $254.00</p><br/>
+      <p>So, while it is a great LED mask, you can get the same perfecting results for your skin from Novalight for under $250.00</p><br/>
       
       </div>
 

@@ -17,7 +17,7 @@ function SecondProduct() {
       <div style={{ textAlign: 'center', padding: '0px', paddingBottom: '0px', width: '80%' }}>
         <div className='TextSection'>
         <h1 style={{textAlign: 'center', marginBottom: '0', paddingBottom: '0'}}>Qure</h1>
-        <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>£671.83</h2>
+        <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>£415</h2>
 
         <p>Qure promises clinical-grade LED precision in just 3 minutes a day.</p>
 
@@ -25,7 +25,7 @@ function SecondProduct() {
 
           <p>Still, it is clinically safe, so it won’t do any harm.</p>
 
-          <p>But it retails for £671.83, making it one of the most expensive options on our list.</p><br/>
+          <p>But it retails for £415, making it one of the most expensive options on our list.</p><br/>
         </div>
 
        
