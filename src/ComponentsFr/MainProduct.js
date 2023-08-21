@@ -31,14 +31,14 @@ function MainProduct() {
       <div className='imgTextWrapper' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', alignContent: 'center', gap: '30px', width: '100%', margin: 'auto auto' }}>
         <div className='img-container'>
           <img src={IMG} alt="" width={'50%'} className='productIMG' style={{ borderRadius: '20px', boxShadow: '0 0 10px 1px rgb(221 221 221)' }} />
-        <h2 style={{background: '#818cf8', color: 'white', width: '120px', margin: '15px auto', borderRadius: '25px'}}>195€</h2>
+        <h2 style={{background: '#818cf8', color: 'white', width: '120px', margin: '15px auto', borderRadius: '25px'}}>179€</h2>
         </div>
 
         <div style={{ textAlign: 'left', padding: '20px', paddingBottom: '0px' }}>
           <div className='TextSection'>
             <h3>Pourquoi les dermatologues ont choisi le Regenmask de Novalight comme la meilleure option de masque LED à domicile</h3>
             <p>Nous avons absolument adoré Regenmask, un produit qui a acquis une énorme popularité. Actuellement, il bénéficie d'une réduction de 50%, ce qui en fait le masque LED le plus abordable pour une utilisation à domicile. Ce masque est capable de désobstruer les pores et de purifier la peau tout en prévenant les signes du vieillissement prématuré. Il couvre également le cou, une zone souvent oubliée du vieillissement cutané.</p>
-            <p>Nous l'avons utilisé tous les jours pendant 20 minutes comme Novalight le suggère, entre 15 et 30 minutes par jour. C'était simple et confortable, tout en travaillant à nous débarrasser des signes de l'exposition au soleil au fil des ans. Et pas étonnant qu'il fonctionne si bien... Il utilise la technologie LED de la NASA pour traiter les problèmes de pigmentation, les rougeurs, la peau sèche et les rides. À la fin, nous étions éblouis par l'éclat, la perfection et la beauté de notre peau! Les résultats sont vraiment de qualité professionnelle. Et avec 50% de réduction, cela le ramène à seulement 195€. Mais dépêchez-vous, il faut le commander aujourd'hui pour bénéficier de ce prix incroyablement bas.</p>
+            <p>Nous l'avons utilisé tous les jours pendant 20 minutes comme Novalight le suggère, entre 15 et 30 minutes par jour. C'était simple et confortable, tout en travaillant à nous débarrasser des signes de l'exposition au soleil au fil des ans. Et pas étonnant qu'il fonctionne si bien... Il utilise la technologie LED de la NASA pour traiter les problèmes de pigmentation, les rougeurs, la peau sèche et les rides. À la fin, nous étions éblouis par l'éclat, la perfection et la beauté de notre peau! Les résultats sont vraiment de qualité professionnelle. Et avec 50% de réduction, cela le ramène à seulement 179€. Mais dépêchez-vous, il faut le commander aujourd'hui pour bénéficier de ce prix incroyablement bas.</p>
           </div>
 
           <div className="ListSection" style={{marginTop: '30px', display: 'flex', flexDirection: 'column', gap: '10px'}}>
@@ -64,7 +64,7 @@ function MainProduct() {
             </Typography>
             <Typography component="div">
               <Box sx={{ display: 'flex', alignItems: 'center', fontSize: '14px' }}>
-                <Check sx={{ color: 'green', marginRight: '5px' }} /> Actuellement disponible à un prix réduit de 195€.
+                <Check sx={{ color: 'green', marginRight: '5px' }} /> Actuellement disponible à un prix réduit de 179€.
               </Box>
             </Typography>
           </div>

@@ -17,7 +17,7 @@ function SecondProduct() {
     <div style={{ textAlign: 'center', padding: '0px', paddingBottom: '0px',width: '80%' }}>
       <div className='TextSection'>
       <h1 style={{textAlign: 'center', marginBottom: '0', paddingBottom: '0'}}>Omnilux</h1>
-      <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>500€</h2>
+      <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>360€</h2>
 
       <p>Omnilux bénéficie d'une excellente garantie et d'un design confortable.</p>
 
@@ -25,7 +25,7 @@ function SecondProduct() {
 
       <p>Bien que nous ayons aimé la manière dont il améliorait la fermeté de la peau, il nous a fallu beaucoup plus de temps que ce que le site web promet pour 3 traitements par semaine pendant 4 semaines pour voir un changement.</p>
         
-      <p>De plus, le prix, à 500€, reste élevé.</p><br/>
+      <p>De plus, le prix, à 360€, reste élevé.</p><br/>
 
       </div>
 

@@ -16,7 +16,7 @@ function SecondProduct() {
       <div style={{ textAlign: 'center', padding: '0px', paddingBottom: '0px', width: '80%' }}>
         <div className='TextSection'>
         <h1 style={{textAlign: 'center', marginBottom: '0', paddingBottom: '0'}}>Qure</h1>
-        <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>675€</h2>
+        <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>485€</h2>
 
         <p>Qure promet une précision LED de qualité clinique en seulement 3 minutes par jour.</p>
 
@@ -24,7 +24,7 @@ function SecondProduct() {
 
         <p>Cependant, il est cliniquement sûr, donc il ne causera aucun préjudice.</p>
 
-        <p>Mais il est vendu au détail pour 675€, ce qui en fait l'une des options les plus chères de notre liste.</p><br/>
+        <p>Mais il est vendu au détail pour 485€, ce qui en fait l'une des options les plus chères de notre liste.</p><br/>
         </div>
 
        

@@ -15,7 +15,7 @@ function SecondProduct() {
     <div style={{ textAlign: 'center', padding: '0px', paddingBottom: '0px', width: '80%' }}>
       <div className='TextSection'>
       <h1 style={{textAlign: 'center', marginBottom: '0', paddingBottom: '0'}}>Current Body</h1>
-      <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>450€</h2>
+      <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>330€</h2>
 
       <p>Current Body a reçu d'excellentes critiques et a même été propulsé au rang de star dans 'Emily à Paris', cette émission sur Netflix.</p>
 

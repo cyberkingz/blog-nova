@@ -8,16 +8,12 @@ function SubFooter() {
 
         <div>
             <img src={IMG} alt="" style={{filter: 'invert(1)', width: '300px'}}/>
-            <p style={{marginTop: '0px', fontSize: '12px'}}><strong>*We only recommend products we personally tested & loved.</strong><br/>
-            We earn from link clicks to 4 of the products mentioned.</p>
+            <p style={{marginTop: '0px', fontSize: '12px'}}><strong>*Nous recommandons uniquement les produits que nous avons personnellement testés et aimés.</strong><br/>
+            Nous gagnons de l'argent à partir des clics sur les liens des produits mentionnés.</p>
             <Divider sx={{mt: 5}}/>
         </div>
         
-        
-        
-        
-        
-        </div>
+    </div>
   )
 }
 

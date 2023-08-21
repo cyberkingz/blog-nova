@@ -133,13 +133,13 @@ function FacebookComments() {
 
               {remainingComments > 0 && (
                 <button className="show_more" type="button" onClick={handleLoadMoreComments}>
-                  Load more
+                  Voir plus
                 </button>
               )}
 
               {remainingComments <= 0 && (
                 <button className="show_less" type="button" style={{ display: 'none' }}>
-                  <span className="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Loading...
+                  <span className="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Chargement...
                 </button>
               )}
             </div>
