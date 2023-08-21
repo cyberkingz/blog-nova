@@ -23,7 +23,7 @@ function SecondProduct() {
 
       <p>We definitely liked this FDA-cleared wrinkle-fighting device, but we simply can’t justify the price. It costs £355. Not a typo.</p>
 
-      <p>So, while it is a great LED mask, you can get the same perfecting results for your skin from Novalight for under $250.00</p><br/>
+      <p>So, while it is a great LED mask, you can get the same perfecting results for your skin from Novalight for under £250</p><br/>
       
       </div>
 
