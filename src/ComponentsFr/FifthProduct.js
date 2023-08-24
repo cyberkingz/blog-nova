@@ -14,7 +14,7 @@ function SecondProduct() {
         <div style={{ textAlign: 'center', padding: '0px', paddingBottom: '0px', width: '80%' }}>
           <div className='TextSection'>
             <h1 style={{textAlign: 'center', marginBottom: '0', paddingBottom: '0'}}>Dr Dennis Gross</h1>
-            <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>455€</h2>
+            <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>455$</h2>
 
             <p>Le dermatologue s’installe chez vous avec ce masque à diodes électroluminescentes. Il a également un aspect visionnaire, que mon frère assimilerait à l'une de ses émissions futuristes.</p>
             <p>Nous avons vraiment aimé ce dispositif antirides approuvé par la FDA, mais nous ne pouvons tout simplement pas justifier son prix. Il coûte 455 euros. Ce n'est pas une faute de frappe.</p>

@@ -14,7 +14,7 @@ function SecondProduct() {
         <div style={{ textAlign: 'center', padding: '0px', paddingBottom: '0px',width: '80%' }}>
           <div className='TextSection'>
             <h1 style={{textAlign: 'center', marginBottom: '0', paddingBottom: '0'}}>Omnilux</h1>
-            <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>395€</h2>
+            <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>395$</h2>
 
             <p>Omnilux bénéficie d'une excellente garantie et d'un design confortable.</p>
             <p>Il est également un peu plus réaliste en ce qui concerne la durée des sessions, puisqu'il indique qu'il faut l'utiliser pendant 10 minutes par séance.</p>
