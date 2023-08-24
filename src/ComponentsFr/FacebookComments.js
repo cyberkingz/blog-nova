@@ -13,83 +13,78 @@ import Avatar9 from '../img/avatars/9.png';
 function FacebookComments() {
   const initialCommentDetails = [
     {
-      name: 'Émilie Dubois',
-      content: "J'utilise le masque Novalight depuis quelques semaines maintenant, et la différence sur ma peau est tout simplement incroyable. Tellement satisfaite des résultats !",
+      name: 'Emily Smith',
+      content: "J'utilise le masque Novalight depuis quelques semaines maintenant, et la différence sur ma peau est tout simplement incroyable. Je suis très satisfaite des résultats !",
       time: '26m',
       avatar: Avatar1,
       count: '12',
     },
     {
-      name: 'Sophie Lellois',
-      content: "J'étais initialement sceptique à propos des masques LED, mais le Novalight a complètement changé mon avis. Ma peau semble rajeunie et est beaucoup plus claire.",
+      name: 'Sophie Jones',
+      content: "J'étais initialement sceptique quant aux masques LED, mais le masque Novalight m'a complètement fait changer d'avis. Ma peau est rajeunie et a l'air tellement plus claire.",
       time: '26m',
       avatar: Avatar2,
       count: '7',
     },
     {
-      name: 'Lucie Bernard',
-      content: "Le masque Novalight a complètement changé ma routine de soins de la peau. Il est si facile à utiliser, et les résultats sont vraiment visibles.",
+      name: 'Lucy Brown',
+      content: "Le masque Novalight a changé la donne dans ma routine de soins de la peau. Il est si facile à utiliser et les résultats sont vraiment visibles.",
       time: '26m',
       avatar: Avatar3,
       count: '2',
     },
     {
-      name: 'Olivia Petit',
-      content: "Ayant essayé quelques masques par le passé, Novalight se démarque vraiment. La technologie LED fait vraiment des merveilles sur ma peau.",
+      name: 'Olivia Taylor',
+      content: "J'ai essayé plusieurs masques dans le passé, mais Novalight se démarque de loin. La technologie LED fait vraiment des merveilles sur ma peau.",
       time: '26m',
       avatar: Avatar4,
       count: '27',
     },
     {
-      name: 'Isabelle Dubois',
-      content: "J'ai toujours eu des problèmes de peau, mais depuis que j'ai commencé avec Novalight, j'ai remarqué des améliorations significatives.",
+      name: 'Isabella Evans',
+      content: "J'ai toujours eu des problèmes de peau, mais depuis que j'ai commencé à utiliser Novalight, j'ai remarqué des améliorations significatives.",
       time: '10:32',
       avatar: Avatar5,
       count: '4',
     },
     {
-      name: 'Eva Leroux',
-      content: "Je viens de recevoir mon masque Novalight. Quelqu'un peut-il conseiller sur la meilleure fréquence d'utilisation ? Très impatiente de commencer mes sessions.",
+      name: 'Ava Wilson',
+      content: "Je viens de recevoir mon masque Novalight. Est-ce que quelqu'un peut me conseiller sur la meilleure fréquence d'utilisation ? J'ai hâte de commencer mes séances.",
       time: '9:22',
       avatar: Avatar6,
       count: '9',
     },
     {
-      name: 'Léa Moreau',
-      content: "J'utilise le masque Novalight trois fois par semaine, et j'ai vu une réduction considérable de mes problèmes de peau. Vraiment un bon investissement.",
+      name: 'Lily Thomas',
+      content: "J'utilise le masque Novalight trois fois par semaine et j'ai constaté une réduction considérable de mes problèmes de peau. L'investissement en vaut vraiment la peine.",
       time: '8:12',
       avatar: Avatar7,
       count: '1',
     },
     {
-      name: 'Jessica Gautier',
-      content: "Ce que j'aime avec le masque Novalight, c'est qu'il traite non seulement le visage mais aussi le cou. Un ajout fantastique à ma routine beauté.",
+      name: 'Jessica Roberts',
+      content: "Ce que j'aime dans le masque Novalight, c'est qu'il s’applique non seulement sur le visage mais aussi sur le cou. C'est un ajout fantastique à ma routine beauté.",
       time: '4:59',
       avatar: Avatar8,
       count: '24',
     },
     {
-      name: 'Grace Fontaine',
-      content: "Quelqu'un a-t-il des astuces pour maximiser les bénéfices du masque Novalight ? J'aimerais avoir quelques conseils.",
+      name: 'Grace Johnson',
+      content: "Est-ce que quelqu'un a des conseils pour maximiser les bénéfices du masque Novalight ? J'aimerais beaucoup avoir des conseils.",
       time: '',
       avatar: Avatar9,
       count: '1',
     },
   ];
-  
 
   const commentsPerPage = 4;
   const [visibleComments, setVisibleComments] = useState(commentsPerPage);
-  const [commentDetails] = useState(initialCommentDetails);
-
- 
+  const visibleCommentDetails = initialCommentDetails.slice(0, visibleComments);
+  const remainingComments = initialCommentDetails.length - visibleComments;
 
   const handleLoadMoreComments = () => {
     setVisibleComments((prevVisibleComments) => Math.min(prevVisibleComments + commentsPerPage, initialCommentDetails.length));
   };
-
-  const visibleCommentDetails = commentDetails.slice(0, visibleComments);
-  const remainingComments = initialCommentDetails.length - visibleComments;
 
   return (
     <div style={{ textAlign: 'left' }}>
@@ -98,7 +93,7 @@ function FacebookComments() {
           <div className="header_comment">
             <div className="row">
               <div className="col-md-6 text-left">
-                <span className="count_comment">{/* {initialCommentDetails.length}  */}264,235 Comments</span>
+                <span className="count_comment">264,235 commentaires</span>
               </div>
             </div>
           </div>
@@ -116,9 +111,9 @@ function FacebookComments() {
                       <p>{comment.content}</p>
                       {comment.time && (
                         <div className="tools_comment">
-                          <a className="like" href="/">Like</a>
+                          <a className="like" href="/">J’aime</a>
                           <span aria-hidden="true"> · </span>
-                          <a className="replay" href="/">Reply</a>
+                          <a className="replay" href="/">Répondre</a>
                           <span aria-hidden="true"> · </span>
                           <i className="fa fa-thumbs-o-up"></i> <span className="count">{comment.count}</span>
                           <span aria-hidden="true"> · </span>
