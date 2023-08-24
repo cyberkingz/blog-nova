@@ -17,7 +17,7 @@ function StickBar() {
           variant="contained"
           sx={{ margin: 'auto auto', backgroundColor: '#4ade80', width: '250px', fontWeight: 'bold', fontSize: '16px' }}
         >
-        👉 Die beste Option
+        👉 Die beste Variante
         </Button>
       </Toolbar>
     </AppBar>

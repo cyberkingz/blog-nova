@@ -14,14 +14,12 @@ function FifthProduct() {
 
         <div style={{ textAlign: 'center', padding: '0px', paddingBottom: '0px', width: '80%' }}>
           <div className='TextSection'>
-            <h1 style={{ textAlign: 'center', marginBottom: '0', paddingBottom: '0' }}>Dr. Dennis Gross</h1>
-            <h2 style={{ textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px' }}>415€</h2>
+            <h1 style={{ textAlign: 'center', marginBottom: '0', paddingBottom: '0' }}>Dr. Dennis Groß</h1>
+            <h2 style={{ textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px' }}>355€</h2>
 
-            <p>Diese LED-Maske bringt wirklich die Arztpraxis nach Hause. Sie hat auch ein sehr futuristisches Aussehen, etwas, das mein Bruder mit einer seiner futuristischen Shows vergleichen würde.</p>
-
-            <p>Wir mochten dieses FDA-zugelassene Gerät zur Faltenbekämpfung wirklich, aber wir können den Preis einfach nicht rechtfertigen. Es kostet 415€. Das ist kein Tippfehler.</p>
-
-            <p>Also, obwohl es eine ausgezeichnete LED-Maske ist, können Sie mit Novalight für weniger als 300€ die gleichen perfekten Ergebnisse für Ihre Haut erzielen.</p><br/>
+            <p>Diese LED-Maske bringt definitiv das Gefühl einer Dermatologie Praxis nach Hause. Sie sieht sehr futuristisch aus, etwas, das mein Bruder mit einer seiner Lieblingsserien vergleichen würde.</p>
+            <p>Wir mochten definitiv das von der FDA zugelassene Faltenbekämpfung Gerät, aber wir können den Preis einfach nicht nachvollziehen. Es kostet 355€. Kein Tippfehler.</p>
+            <p>Obwohl es eine großartige LED-Maske ist, können Sie dieselben nahezu perfekten Ergebnisse für Ihre Haut von Novalight für unter 250€ erhalten.</p>
             
           </div>
         </div>

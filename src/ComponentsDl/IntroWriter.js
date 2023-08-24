@@ -7,25 +7,27 @@ function IntroWriter() {
     <div style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', backgroundColor: '#334155', padding: '10px', color: 'white', gap: '0px', borderRadius: '10px'}}>
     <img src={Img} alt="" width="80px" style={{borderRadius: '100%', margin: 'auto auto'}}/>
       <div style={{display: 'flex', flexDirection: 'column', gap: '0'}}>
-        <p style={{fontWeight: 'bold', marginBottom: '0px'}}>Geschrieben von Judy Phillips</p>
-        <p style={{fontStyle: 'italic'}}>Spezialistin für Hautalterung & Chefredakteurin</p>
+        <p style={{fontWeight: 'bold', marginBottom: '0px'}}>Verfasst von Judy Phillips</p>
+
+        <p style={{fontStyle: 'italic'}}>Fachexpertin für Falten & Leitende Redakteurin</p>
       </div>
     </div>
 
     <div>
-          <p style={{fontSize: '12px', textAlign: 'center'}}>*Wir empfehlen nur Produkte, die wir persönlich getestet und gemocht haben.</p>
+          <p style={{fontSize: '12px', textAlign: 'center'}}>*Wir empfehlen ausschließlich Produkte, die wir persönlich getestet und für gut befunden haben.</p>
+
       <div style={{textAlign: 'left', width: '80%', margin: 'auto auto'}}>
-          <p>Bei Hautproblemen wie <strong>Durchhängen, Falten, Ausbrüchen und Entzündungen</strong> haben wir nach den <strong>5 besten Lichttherapiemasken</strong> gesucht, die bekannt dafür sind, <strong>den Teint zu verbessern und zu verjüngen</strong>.</p>
-          <p></p>
-          <p>Lichttherapie oder LED-Masken sind in den letzten Jahren unglaublich populär geworden. <strong>Zu Beginn war diese Art von Behandlung nur beim Dermatologen oder Kosmetiker verfügbar</strong>.</p>
-          <p></p>
-          <p><strong>Jetzt können Sie diese gleichen Behandlungen zu Hause durchführen</strong>. Wenn Sie bemerken, dass Ihr Gesicht älter wird, haben Sie vielleicht nach verschiedenen Möglichkeiten gesucht, die grausamen Hände der Zeit zurückzudrängen.</p>
-          <p></p>
-          <p>Jedoch könnte <strong>ein Besuch in einer Praxis bis zu 450€ pro Sitzung kosten, je nach Ihrem Standort</strong>. Da die LED-Therapie nie eine einmalige Behandlung ist, <strong>macht es Sinn, eine Lichttherapiemaske zu finden, die Sie zu Hause verwenden können, um dieselben Ergebnisse zu erzielen</strong>.</p>
-          <p></p>
-          <p>Wir haben 25 LED-Masken getestet, einschließlich Modelle von Qure, Novalight und OmniLux. <strong>Dann haben wir die 5 besten Optionen nach den folgenden Kriterien bewertet</strong>:</p>
-          <p></p> 
-     </div>
+    <p>Angesichts von Hautproblemen wie <strong>Schlaffheit, Falten, Hautunreinheiten und Entzündungen</strong> haben wir uns auf die Suche nach den <strong>Top 5 Lichttherapie-Masken</strong> gemacht, die für die <strong>Verbesserung und Verjüngung eines wunderbaren und jugendlichen Hautbildes</strong> stehen.</p>
+    
+    <p><strong>Lichttherapie oder LED-Masken</strong> sind in den letzten Jahren unglaublich beliebt geworden. Anfangs war diese Art der Behandlung nur über Dermatologen oder Kosmetiker erhältlich.</p>
+    
+    <p><strong>Jetzt können Sie dieselben Behandlungen auch zu Hause erhalten</strong>. Während das Alter deutliche Spuren auf Ihrem Gesicht hinterlassen hat, haben Sie bestimmt nach verschiedenen Möglichkeiten gesucht, die grausamen Auswirkungen der Zeit rückgängig zu machen.</p>
+    
+    <p>Allerdings könnten Kosten für einen Besuch in der Praxis je nach Standort bis zu <strong>380€ pro Sitzung</strong> betragen. Da LED-Therapie nie eine einmalige Angelegenheit ist, liegt es nur nahe, <strong>eine Lichttherapie-Maske zu finden, mit der Sie zu Hause dieselben Ergebnisse erzielen können</strong>.</p>
+    
+    <p>Wir haben 25 LED-Masken getestet, darunter Modelle von Qure, Novalight und OmniLux. Anschließend haben wir die <strong>5 besten Optionen anhand folgender Kriterien bewertet</strong>:</p>
+</div>
+
         </div>
     </>
   )

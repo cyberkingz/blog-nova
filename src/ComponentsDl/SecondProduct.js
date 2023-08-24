@@ -15,15 +15,15 @@ function SecondProduct() {
         <div style={{ textAlign: 'center', padding: '0px', paddingBottom: '0px', width: '80%' }}>
           <div className='TextSection'>
             <h1 style={{ textAlign: 'center', marginBottom: '0', paddingBottom: '0' }}>Qure</h1>
-            <h2 style={{ textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px' }}>485€</h2>
+            <h2 style={{ textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px' }}>415€</h2>
 
-            <p>Qure verspricht klinisch genaue LED-Präzision in nur 3 Minuten pro Tag.</p>
+            <p>Qure verspricht klinische Präzision bei LED-Anwendung innerhalb von nur 3 Minuten täglich.</p>
 
-            <p>Nun, wenn es zu schön klingt, um wahr zu sein, dann ist es das auch. Vielleicht, wenn Sie es länger verwenden, als wir es getestet haben, aber in 12 Wochen bei 3 Minuten pro Tag hat sich nicht viel wirklich geändert.</p>
+            <p>Nun, wenn es zu gut klingt, um wahr zu sein, ist es oftmals auch so. Eventuell, wenn man es länger verwendet als wir es getestet haben, aber nach 12 Wochen mit 3 minütiger Anwendung pro Tag hat sich nicht viel verändert.</p>
 
-            <p>Es ist jedoch klinisch sicher, also wird es keinen Schaden verursachen.</p>
+            <p>Trotzdem ist es medizinisch betrachtet sicher, also wird es keinen Schaden anrichten.</p>
 
-            <p>Aber es wird im Einzelhandel für 485€ verkauft, was es zu einer der teuersten Optionen auf unserer Liste macht.</p><br />
+            <p>Allerdings kostet es 415€, was es zu einer der teuersten Optionen auf unserer Liste macht.</p>
           </div>
         </div>
       </div>

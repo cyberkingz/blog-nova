@@ -10,20 +10,20 @@ function MainProduct() {
       <div style={{ textAlign: 'left', width: '80%', margin: 'auto auto' }}>
 
         <div style={{ marginTop: '80px' }}>
-          <p style={{ fontWeight: 'bold' }}>Kosten</p>
-          <p>Wir haben hervorragende Ergebnisse mit LED-Masken erzielt, die weniger als <strong>300€</strong> kosten. Tatsächlich war unsere erste Wahl die günstigste Option!</p>
+          <p><strong>Kosten</strong></p>
+          <p>Wir haben mit LED-Masken, die weniger als <strong>250€</strong> kosten, großartige Ergebnisse erzielt. Tatsächlich war unsere erste Wahl die günstigste Option!</p>
           <Divider />
         </div>
 
         <div style={{ marginTop: '20px' }}>
-          <p style={{ fontWeight: 'bold' }}>Ergebnisse</p>
-          <p>Wir haben diese LED-Masken regelmäßig verwendet, um herauszufinden, wie lange es dauert, um bemerkenswerte Ergebnisse bei der Reduzierung von Falten und Hauterschlaffung zu erzielen.</p>
+          <p><strong>Ergebnisse</strong></p>
+          <p>Wir haben diese LED-Masken regelmäßig benutzt, um herauszufinden, wie lange es dauern würde, bis deutliche Ergebnisse bei der Reduzierung von Falten und Erschlaffung sichtbar werden.</p>
           <Divider />
         </div>
 
         <div style={{ marginTop: '20px' }}>
-          <p style={{ fontWeight: 'bold' }}>Sicher für den Hausgebrauch</p>
-          <p>Jede dieser Phototherapie-Masken ist von einem Dermatologen zugelassen und sicher für den Hausgebrauch.</p>
+          <p><strong>Sicherheit für den Heimgebrauch</strong></p>
+          <p>Jede einzelne dieser Lichttherapie-Masken ist von Dermatologen zugelassen und sicher für die Anwendung von zu Hause.</p>
           <Divider />
         </div>
       </div>
@@ -31,40 +31,40 @@ function MainProduct() {
       <div className='imgTextWrapper' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', alignContent: 'center', gap: '30px', width: '100%', margin: 'auto auto' }}>
         <div className='img-container'>
           <img src={IMG} alt="" width={'50%'} className='productIMG' style={{ borderRadius: '20px', boxShadow: '0 0 10px 1px rgb(221 221 221)' }} />
-        <h2 style={{background: '#818cf8', color: 'white', width: '120px', margin: '15px auto', borderRadius: '25px'}}>179€</h2>
+          <h2 style={{background: '#818cf8', color: 'white', width: '120px', margin: '15px auto', borderRadius: '25px'}}>179€</h2>
         </div>
 
         <div style={{ textAlign: 'left', padding: '20px', paddingBottom: '0px' }}>
           <div className='TextSection'>
-            <h3>Warum Dermatologen die Regenmask von Novalight als die beste LED-Maskenoption für zu Hause gewählt haben</h3>
-            <p>Wir lieben absolut die Regenmask, ein Produkt, das enorm an Popularität gewonnen hat. Derzeit gibt es einen Rabatt von 50%, was es zur erschwinglichsten LED-Maske für den Hausgebrauch macht. Diese Maske kann Poren freisetzen und die Haut reinigen, während sie Anzeichen vorzeitiger Hautalterung vorbeugt. Sie deckt auch den Hals ab, ein Bereich, der oft bei der Hautalterung übersehen wird.</p>
-            <p>Wir haben es täglich für 20 Minuten verwendet, wie Novalight empfiehlt, zwischen 15 und 30 Minuten pro Tag. Es war einfach und komfortabel und half uns, die Anzeichen von Sonneneinstrahlung über die Jahre loszuwerden. Kein Wunder, dass es so gut funktioniert... Es verwendet die LED-Technologie der NASA, um Pigmentierungsprobleme, Rötungen, trockene Haut und Falten zu behandeln. Am Ende waren wir von dem Glanz, der Perfektion und der Schönheit unserer Haut überwältigt! Die Ergebnisse sind wirklich professionell. Und mit 50% Rabatt kostet es nur 179€. Aber beeilen Sie sich, Sie müssen es heute bestellen, um diesen unglaublich niedrigen Preis zu bekommen.</p>
+            <h3>Warum Dermatologen die Regenmask(e) von Novalight als beste Option für eine LED-Maske für den Heimgebrauch ausgewählt haben.</h3>
+            <p>Wir waren absolut begeistert von der Regenmask(e), einem Produkt, mit einer großen Fangemeinde. Zurzeit gibt es sogar einen 50%igen Rabatt, was sie zur kostengünstigsten LED-Maske für den Heimgebrauch macht. Diese Maske hat die Fähigkeit, Poren und Haut optimal zu reinigen, während sie gleichzeitig das Voranschreiten vorzeitiger Hautalterung verhindert. Zudem enthält sie einen Bereich, der Ihren Hals abdeckt – eine der am häufigsten vernachlässigten Zonen bei alternder Haut.</p>
+            <p>Wir haben sie täglich 20 Minuten lang verwendet, wie von Novalight empfohlen, da es zwischen 15 und 30 Minuten pro Tag verwendet werden soll. Es war mühelos und komfortabel, während es gleichzeitig daran arbeitete, die Folgen jahrelanger Sonnenexposition zu mildern. Und es ist auch kein Wunder, dass es so gut funktioniert: Die Regenmask(e) benutzt LED-Technologie, die auch von der NASA verwendet wird, um Pigmentierung, Rötungen, trockene Haut und Falten zu behandeln. Am Ende konnten wir nicht glauben, wie strahlend, makellos und schön die Haut aussah! Die Ergebnisse sind wirklich von professioneller Qualität. Und mit 50% Rabatt kostet sie nur 179€. Besser beeilen Sie sich, Sie sollten das Produkt noch heute bestellen, um es zu diesem erstaunlich niedrigen Preis zu erhalten.</p>
           </div>
 
           <div className="ListSection" style={{marginTop: '30px', display: 'flex', flexDirection: 'column', gap: '10px'}}>
             <Typography component="div">
               <Box sx={{ display: 'flex', alignItems: 'center', fontSize: '14px' }}>
-                <Check sx={{ color: 'green', marginRight: '5px' }} /> Von Dermatologen für die Hautsicherheit zugelassen.
+                <Check sx={{ color: 'green', marginRight: '5px' }} /> Von Dermatologen für Haussicherheit zugelassen.
               </Box>
             </Typography>
             <Typography component="div">
               <Box sx={{ display: 'flex', alignItems: 'center',  fontSize: '14px' }}>
-                <Check sx={{ color: 'green', marginRight: '5px' }} /> Verwendet die NASA LED-Technologie für die Hautbehandlung.
+                <Check sx={{ color: 'green', marginRight: '5px' }} /> Verwendet LED-Technologie der NASA für die Hautbehandlung.
               </Box>
             </Typography>
             <Typography component="div">
               <Box sx={{ display: 'flex', alignItems: 'center',  fontSize: '14px' }}>
-                <Check sx={{ color: 'green', marginRight: '5px' }} /> Deckt auch den Hals ab, zielt auf einen oft übersehenen Bereich ab.
+                <Check sx={{ color: 'green', marginRight: '5px' }} /> Deckt auch den Hals ab, um eine häufig übersehene Region zu behandeln.
               </Box>
             </Typography>
             <Typography component="div">
               <Box sx={{ display: 'flex', alignItems: 'center',  fontSize: '14px' }}>
-                <Check sx={{ color: 'green', marginRight: '5px' }} /> Geeignet für den täglichen Gebrauch, mit Sitzungen von 15 bis 30 Minuten.
+                <Check sx={{ color: 'green', marginRight: '5px' }} /> Für den täglichen Gebrauch geeignet mit Sitzungen von 15-30 Minuten.
               </Box>
             </Typography>
             <Typography component="div">
               <Box sx={{ display: 'flex', alignItems: 'center', fontSize: '14px' }}>
-                <Check sx={{ color: 'green', marginRight: '5px' }} /> Derzeit zu einem reduzierten Preis von 179€ erhältlich.
+                <Check sx={{ color: 'green', marginRight: '5px' }} /> Aktuell zum reduzierten Preis von 179€ erhältlich.
               </Box>
             </Typography>
           </div>
@@ -72,8 +72,8 @@ function MainProduct() {
       </div>
 
       <div style={{ width: '100%' }}>
-        <Button variant="contained" href="https://novalight-uk.com/products/masque-facial-avec-led-novalight" sx={{ fontWeight: 'bold', backgroundColor: '#4ade80', padding: '10px', paddingLeft: '20px', paddingRight: '20px', fontSize: '16px', borderRadius: '10px' }}>👉 Die beste Option</Button>
-        <p>*Der Bestand nimmt ab</p>
+        <Button variant="contained" href="https://novalight-uk.com/products/masque-facial-avec-led-novalight" sx={{ fontWeight: 'bold', backgroundColor: '#4ade80', padding: '10px', paddingLeft: '20px', paddingRight: '20px', fontSize: '16px', borderRadius: '10px' }}>Die Beste Variante</Button>
+        <p>*Nur noch begrenzte Stückzahl verfügbar</p>
       </div>
 
       <Divider />

@@ -15,13 +15,11 @@ function SecondProduct() {
         <div style={{ textAlign: 'center', padding: '0px', paddingBottom: '0px', width: '80%' }}>
           <div className='TextSection'>
             <h1 style={{ textAlign: 'center', marginBottom: '0', paddingBottom: '0' }}>Current Body</h1>
-            <h2 style={{ textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px' }}>330€</h2>
+            <h2 style={{ textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px' }}>280€</h2>
 
-            <p>Current Body hat hervorragende Bewertungen erhalten und wurde sogar zum Star in "Emily in Paris", dieser Show auf Netflix, gemacht.</p>
-
-            <p>Vielleicht würden wir es als unseren zweiten Favoriten auf der Liste bezeichnen, da es eine bequeme Passform hat und vielversprechende Ergebnisse zeigt, aber zu diesem Preis, der 375€ betrug, waren wir geschockt.</p>
-
-            <p>Warum mehr zahlen, wenn man die gleichen Ergebnisse für weniger als 250€ erzielen kann? Das haben wir uns auch gedacht!</p><br/>
+            <p>Current Body hat einige herausragende Bewertungen und wurde sogar durch die Serie ‘'Emily in Paris’' auf Netflix bekannt.</p>
+            <p>Vielleicht würden wir diese LED-Maske als unseren zweitbesten Favoriten auf der Liste bezeichnen, da sie bequem sitzt und vielversprechende Ergebnisse zeigt, aber bei dem Preis von 280€ waren wir ein wenig überrascht.</p>
+            <p>Warum mehr bezahlen, wenn man die gleichen Ergebnisse für weniger als 250€ erhalten kann?</p>
             
           </div>
         </div>
