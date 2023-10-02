@@ -13,7 +13,6 @@ function SecondProduct() {
       <img className='productIMG' src={IMG} alt="" width={'50%'} style={{borderRadius: '20px', boxShadow: '0 0 10px 1px rgb(221 221 221)'}}/>
     </div>
 
-
     <div style={{ textAlign: 'center', padding: '0px', paddingBottom: '0px', width: '80%' }}>
       <div className='TextSection'>
       <h1 style={{textAlign: 'center', marginBottom: '0', paddingBottom: '0'}}>Dr. Dennis Gross</h1>
@@ -26,7 +25,6 @@ function SecondProduct() {
       <p>So, while it is a great LED mask, you can get the same perfecting results for your skin from Novalight for under CAD 350,00</p><br/>
       
       </div>
-
      
     </div>
 

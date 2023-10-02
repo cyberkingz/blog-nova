@@ -31,7 +31,7 @@ function MainProduct() {
       <div className='imgTextWrapper' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', alignContent: 'center', gap: '30px', width: '100%', margin: 'auto auto' }}>
         <div className='img-container'>
           <img src={IMG} alt="" width={'50%'} className='productIMG' style={{ borderRadius: '20px', boxShadow: '0 0 10px 1px rgb(221 221 221)' }} />
-        <h2 style={{background: '#818cf8', color: 'white', width: '120px', margin: '15px auto', borderRadius: '25px'}}>AUD 296,77</h2>
+        <h2 style={{background: '#818cf8', color: 'white', width: 'fit-content', margin: '15px auto', borderRadius: '25px', padding: '5px', paddingLeft: '20px', paddingRight: '20px'}}>AUD 296,77</h2>
         </div>
 
         <div style={{ textAlign: 'left', padding: '20px', paddingBottom: '0px' }}>
