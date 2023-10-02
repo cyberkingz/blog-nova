@@ -6,6 +6,8 @@ import HomeUk from './Pages/HomeUk';
 import HomeFr from './Pages/HomeFr';
 import Test from './Pages/Test';
 import HomeDl from './Pages/HomeDl';
+import HomeAu from './Pages/HomeAu';
+import HomeCa from './Pages/HomeCa';
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
         <Route path="/uk" element={<HomeUk />} />
         <Route path="/fr" element={<HomeFr />} />
         <Route path="/dl" element={<HomeDl />} />
+        <Route path="/au" element={<HomeAu />} />
+        <Route path="/ca" element={<HomeCa />} />
         <Route path="/test" element={<Test />} />
       </Routes>
 
