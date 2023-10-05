@@ -28,8 +28,6 @@ function SecondProduct() {
      
     </div>
 
-
-
     </div>
 
 

@@ -14,11 +14,11 @@ function SecondProduct() {
         <div style={{ textAlign: 'center', padding: '0px', paddingBottom: '0px', width: '80%' }}>
           <div className='TextSection'>
             <h1 style={{textAlign: 'center', marginBottom: '0', paddingBottom: '0'}}>Current Body</h1>
-            <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>355$</h2>
+            <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>349€</h2>
 
             <p>Current Body a reçu des critiques élogieuses et a même été propulsé au rang de star par la série Emily in Paris sur Netflix.</p>
-            <p>Nous le classerions peut-être au deuxième rang des favoris de la liste, car il est confortable et donne des résultats prometteurs, mais au prix de 295 $, nous avons eu un peu de mal à nous y retrouver.</p>
-            <p>Pourquoi payer plus quand on peut obtenir les mêmes résultats pour moins de 200 euros ? Nous sommes d’accord !</p>
+            <p>Nous le classerions peut-être au deuxième rang des favoris de la liste, car il est confortable et donne des résultats prometteurs, mais au prix de 349€, nous avons eu un peu de mal à nous y retrouver.</p>
+            <p>Pourquoi payer plus quand on peut obtenir les mêmes résultats pour moins de 200€ ? Nous sommes d’accord !</p>
           </div>
         </div>
       </div>

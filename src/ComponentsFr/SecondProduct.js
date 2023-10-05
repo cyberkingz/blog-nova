@@ -14,12 +14,12 @@ function SecondProduct() {
         <div style={{ textAlign: 'center', padding: '0px', paddingBottom: '0px', width: '80%' }}>
           <div className='TextSection'>
             <h1 style={{textAlign: 'center', marginBottom: '0', paddingBottom: '0'}}>Qure</h1>
-            <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>529$</h2>
+            <h2 style={{textAlign: 'center', marginTop: '0', paddingTop: '0', marginBottom: '30px'}}>322,30€</h2>
 
             <p>Qure promet une précision LED de qualité clinique en seulement 3 minutes par jour.</p>
             <p>Lorsque qu’un produit semble trop beau pour être vrai, rien n’y fait. Peut-être faut-il l'utiliser plus longtemps que ce que nous avons testé, mais en 12 semaines à raison de 3 minutes par jour, nous n’avons pas remarqué de grands changements.</p>
             <p>Néanmoins, ce produit est cliniquement sûr, il ne peut donc pas faire de mal.</p>
-            <p>En revanche, son prix de vente est de 529$, ce qui en fait l'une des options les plus chères de notre liste.</p>
+            <p>En revanche, son prix de vente est de 593,55€, ce qui en fait l'une des options les plus chères de notre liste.</p>
           </div>
         </div>
       </div>
