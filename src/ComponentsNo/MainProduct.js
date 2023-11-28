@@ -11,7 +11,7 @@ function MainProduct() {
 
         <div style={{ marginTop: '80px' }}>
           <p style={{ fontWeight: 'bold' }}>Kostnad</p>
-          <p>Vi oppnådde gode resultater med LED-masker som kostet <strong>mindre enn 2500 NOK</strong>. Faktisk var vårt toppvalg det rimeligste alternativet!</p>
+          <p>Vi oppnådde gode resultater med LED-masker som kostet <strong>mindre enn 3000 NOK</strong>. Faktisk var vårt toppvalg det rimeligste alternativet!</p>
           <Divider />
         </div>
 
