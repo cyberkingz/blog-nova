@@ -23,7 +23,7 @@ function SecondProduct() {
 
     <p>Kanskje vi skulle kalle det vårt nest beste alternativ på listen, siden det har en behagelig passform og viser lovende resultater, men til denne prisen, som var 2747 NOK, følte vi en viss sjokk over prisen.</p>
 
-    <p>Hvorfor betale mer når du kan få de samme resultatene for mindre enn 200 dollar? Det var hva vi tenkte!</p><br/>
+    <p>Hvorfor betale mer når du kan få de samme resultatene for mindre enn 3000 NOK ? Det var hva vi tenkte!</p><br/>
   </div>
 </div>
 

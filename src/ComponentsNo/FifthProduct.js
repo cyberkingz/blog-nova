@@ -23,7 +23,7 @@ function SecondProduct() {
 
     <p>Vi likte absolutt denne FDA-godkjente rynkebehandlingsenheten, men vi kan rett og slett ikke rettferdiggjøre prisen. Den koster 3483 NOK. Ingen skrivefeil.</p>
 
-    <p>Så selv om det er en fantastisk LED-maske, kan du få de samme forbedrende resultatene for huden din fra Novalight for under 200 dollar.</p><br/>
+    <p>Så selv om det er en fantastisk LED-maske, kan du få de samme forbedrende resultatene for huden din fra Novalight for under  3000 NOK.</p><br/>
   </div>
 </div>
 

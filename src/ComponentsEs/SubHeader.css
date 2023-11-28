@@ -1,0 +1,5 @@
+@media (max-width: 768px) {
+    .SubHeader h2 {
+        font-size: 16px !important;
+    }
+}

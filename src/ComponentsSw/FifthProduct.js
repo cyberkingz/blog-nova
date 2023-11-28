@@ -23,7 +23,7 @@ function SecondProduct() {
 
       <p>Vi gillade definitivt den här FDA-godkända rynkbekämpande enheten, men vi kan helt enkelt inte rättfärdiga priset. Den kostar 4586,40 SEK. Inget skrivfel.</p>
 
-      <p>Så även om det är en fantastisk LED-mask kan du få samma perfekterande resultat för din hud från Novalight för under 2016,00 SEK.</p><br/>
+      <p>Så även om det är en fantastisk LED-mask kan du få samma perfekterande resultat för din hud från Novalight för under 2500,00 SEK.</p><br/>
       
       </div>
 
