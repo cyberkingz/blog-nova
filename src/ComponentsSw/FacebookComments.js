@@ -133,7 +133,7 @@ function FacebookComments() {
 
               {remainingComments > 0 && (
                 <button className="show_more" type="button" onClick={handleLoadMoreComments}>
-                  Load more
+                  Ladda mer
                 </button>
               )}
 
