@@ -15,7 +15,7 @@ function StickBar() {
         <Button
           href="https://novalight-uk.com/no-no/products/masque-facial-avec-led-novalight"
           variant="contained"
-          sx={{ margin: 'auto auto', backgroundColor: '#4ade80', width: '220px', fontWeight: 'bold', fontSize: '16px' }}
+          sx={{ margin: 'auto auto', backgroundColor: '#4ade80', width: '260px', fontWeight: 'bold', fontSize: '14px' }}
         >
         👉 DET BESTE ALTERNATIVET
         </Button>
