@@ -12,6 +12,7 @@ import HomeDk from './Pages/HomeDk';
 import HomeSw from './Pages/HomeSw';
 import HomeNo from './Pages/HomeNo';
 import HomeEs from './Pages/HomeEs';
+import HomeIt from './Pages/HomeIt';
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
         <Route path="/sw" element={<HomeSw />} />
         <Route path="/no" element={<HomeNo />} />
         <Route path="/es" element={<HomeEs />} />
+        <Route path="/it" element={<HomeIt />} />
         <Route path="/test" element={<Test />} />
       </Routes>
 
