@@ -11,7 +11,7 @@ function MainProduct() {
       <div style={{ textAlign: 'left', width: '80%', margin: 'auto auto' }}>
         <div style={{ marginTop: '80px' }}>
           <p style={{ fontWeight: 'bold' }}>Costo</p>
-          <p>Abbiamo trovato ottimi risultati con le maschere LED che costano meno di <strong>200 dollari</strong>. In effetti, la nostra scelta migliore è stata l'opzione più economica!</p>
+          <p>Abbiamo trovato ottimi risultati con le maschere LED che costano meno di <strong>200€</strong>. In effetti, la nostra scelta migliore è stata l'opzione più economica!</p>
           <Divider />
         </div>
 
