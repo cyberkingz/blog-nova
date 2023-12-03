@@ -13,11 +13,11 @@ function StickBar() {
     >
       <Toolbar>
         <Button
-          href="https://novalight-north.com/no-no/products/masque-facial-avec-led-novalight"
+          href="https://novalight-uk.com/nl-be/products/masque-facial-avec-led-novalight"
           variant="contained"
-          sx={{ margin: 'auto auto', backgroundColor: '#4ade80', width: '260px', fontWeight: 'bold', fontSize: '14px' }}
+          sx={{ margin: 'auto auto', backgroundColor: '#4ade80', width: '250px', fontWeight: 'bold', fontSize: '16px' }}
         >
-        👉 DET BESTE ALTERNATIVET
+        👉 DE BESTE OPTIE
         </Button>
       </Toolbar>
     </AppBar>

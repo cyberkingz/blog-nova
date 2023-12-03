@@ -13,6 +13,8 @@ import HomeSw from './Pages/HomeSw';
 import HomeNo from './Pages/HomeNo';
 import HomeEs from './Pages/HomeEs';
 import HomeIt from './Pages/HomeIt';
+import HomeNl from './Pages/HomeNl';
+import HomeBe from './Pages/HomeBe';
 
 function App() {
   return (
@@ -30,6 +32,8 @@ function App() {
         <Route path="/no" element={<HomeNo />} />
         <Route path="/es" element={<HomeEs />} />
         <Route path="/it" element={<HomeIt />} />
+        <Route path="/nl" element={<HomeNl />} />
+        <Route path="/be" element={<HomeBe />} />
         <Route path="/test" element={<Test />} />
       </Routes>
 
