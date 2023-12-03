@@ -74,7 +74,7 @@ function MainProduct() {
     </div>
   
     <div style={{ width: '100%' }}>
-      <Button variant="contained" href="https://novalight-uk.com/da-da/products/masque-facial-avec-led-novalight" sx={{ fontWeight: 'bold', backgroundColor: '#4ade80', padding: '10px', paddingLeft: '20px', paddingRight: '20px', fontSize: '16px', borderRadius: '10px' }}>👉 DET BEDSTE VALG</Button>
+      <Button variant="contained" href="https://novalight-north.com/da-dk/products/masque-facial-avec-led-novalight" sx={{ fontWeight: 'bold', backgroundColor: '#4ade80', padding: '10px', paddingLeft: '20px', paddingRight: '20px', fontSize: '16px', borderRadius: '10px' }}>👉 DET BEDSTE VALG</Button>
       <p>*Lagerbeholdningen er lav</p>
     </div>
   
