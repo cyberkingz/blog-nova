@@ -13,7 +13,7 @@ function StickBar() {
     >
       <Toolbar>
         <Button
-          href="https://novalight-north.com/sv-sw/products/masque-facial-avec-led-novalight"
+          href="https://novalight-north.com/products/masque-facial-avec-led-novalight"
           variant="contained"
           sx={{ margin: 'auto auto', backgroundColor: '#4ade80', width: 'fit-content', fontWeight: 'bold', fontSize: '15px' }}
         >
